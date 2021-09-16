@@ -1,13 +1,13 @@
 # Deep IAB
 
-2019년도 2학기 IAB 강의 중 Convolutional Neural Networks를 다루는 실습 코드 저장소입니다.
+2021년도 2학기 IAB 강의 중 Convolutional Neural Networks를 다루는 실습 코드 저장소입니다.
 
 ## Jupyter notebook 사용자를 위한 환경 세팅
 
 ```
  $ conda create –n deep_iab python=3.6
  $ conda activate deep_iab
- $ git clone git@github.com:skywalker023/deep_iab.git 
+ $ git clone git@github.com:ahnjaewoo/deep_iab.git 
  $ cd deep_iab/ 
  $ pip install –r requirements.txt
  $ conda deactivate && conda activate deep_iab
